@@ -171,6 +171,4 @@ Gradient boosting using weak learners iteratively corrected.
 
 ![Accuracy Comparison](images/fig14_accuracy_comparison.png)
 
----
 
-## Project Structure
