@@ -5,18 +5,3 @@ seaborn
 scikit-learn
 xgboost
 imbalanced-learn
-
-## `data/README.md`
-
-```markdown
-# Dataset
-
-Download the dataset from Kaggle:
-
-**Link:** https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
-
-**File to download:** `healthcare-dataset-stroke-data.csv`
-
-Place it in this `data/` folder before running the notebook or script.
-
-The dataset is not included in this repository due to Kaggle's redistribution terms.
