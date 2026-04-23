@@ -1,4 +1,3 @@
-# Cerebrovascular-Accident-Prognosis-using-Supervised-ML
 # Cerebrovascular Accident Prognosis using Supervised Machine Learning Algorithms
 
 > Published Research | Copyright Office New Delhi | Reg. No. SW-16851/2023
