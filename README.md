@@ -16,7 +16,7 @@ supervised machine learning algorithms — **Random Forest**, **Decision Tree**,
 including age, blood pressure, cholesterol levels, smoking status, and medical history.
 
 **Random Forest achieved the highest accuracy of 99.93%**, outperforming existing
-state-of-the-art methods.
+state-of-the-art methods
 
 ---
 
